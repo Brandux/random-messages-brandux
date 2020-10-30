@@ -1,0 +1,19 @@
+{
+  "name": "random-messages-brandux",
+  "version": "1.0.0",
+  "description": "Demo para subir a npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node"
+  ],
+  "author": "Brandux Juarez <branduxjuarez@upeu.edu.pe>",
+  "license": "MIT",
+  "bin": {
+    "random-msg-brandux": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
